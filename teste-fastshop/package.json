@@ -1,0 +1,13 @@
+{
+    "name": "teste-fastshop",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "cucumber-js"
+    },
+    "devDependencies": {
+        "@cucumber/cucumber": "^11.2.0"
+    },
+    "dependencies": {
+        "puppeteer": "^24.8.1"
+    }
+}
